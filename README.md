@@ -1,4 +1,6 @@
 # View-TikTok
   cd View-TikTok
-  python wnn.py
+ ''' bash
+ python wnn.py
+ '''
 # Tool by Whit NN
